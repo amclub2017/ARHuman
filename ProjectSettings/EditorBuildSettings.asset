@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/mainSn.unity
+    guid: c9103fd2bf8f7f74c88081a1ae548a80
+  - enabled: 1
+    path: Assets/Scenes/Ar1.unity
+    guid: 04392beaa80cbe544af1d0a2df5b090d
+  - enabled: 1
+    path: Assets/Scenes/Ar2.unity
+    guid: 11fff51e3158bbe4a8d532616a03b67b
+  - enabled: 1
+    path: Assets/Scenes/EarsSn.unity
+    guid: c0d9b749e5e6bb74f80f1a7296634a9d
+  - enabled: 1
+    path: Assets/Scenes/EyeSn.unity
+    guid: 968aa914ea3d591418bf87099f8dfb01
+  - enabled: 1
+    path: Assets/Scenes/footSn.unity
+    guid: 1def18c89553ab64dbb70aacc2f1cfff
+  - enabled: 1
+    path: Assets/Scenes/handSn.unity
+    guid: 2c40b425a5ec3df4c9b043591445e4c1
+  - enabled: 1
+    path: Assets/Scenes/MouthSn.unity
+    guid: 9e04177ac04d7e84fa2f79f6ffc10002
+  - enabled: 1
+    path: Assets/Scenes/noseSn.unity
+    guid: 49377388952e6d847847e4751764c95e
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz1.unity
+    guid: dfb8f32a8e1b5c047895301390473f7b
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz2.unity
+    guid: ff40eb3425ed28d499558c94661e2559
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz3.unity
+    guid: 992fe55bdab0a9b47ab7862cf2ad697b
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz4.unity
+    guid: 4ecede73522f8bb479963b1b177107e4
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz5.unity
+    guid: 4442fc29b8d43644389c6646dfc24f6b
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz6.unity
+    guid: 8d07790f655192041ae9aee114257060
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz7.unity
+    guid: 44006abbe50aeeb41abf342052a6cfc5
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz8.unity
+    guid: fa8713ecd6fa5ff49a3bf945b7c2a4a9
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz9.unity
+    guid: 8e4ea8938a671dd4eb80a3eb9549af13
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz10.unity
+    guid: c606b27802a131e429438a84aea3c506
+  - enabled: 1
+    path: Assets/Scenes/Quiz/WinSn.unity
+    guid: af8d7fd27916f184ea3fc5384b377dcc
+  m_configObjects: {}
